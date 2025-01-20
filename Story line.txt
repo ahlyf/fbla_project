@@ -1,0 +1,1 @@
+"create a 4 sentence story about a kid growing up with soccer, but make it random. your name is " + player.name + ", you are from " + player.country + " and you play as a " + player.position + ". You play in " + player.academy + "."
